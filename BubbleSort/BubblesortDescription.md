@@ -7,8 +7,8 @@ Bubblesort ist ein Sortierungsalgorithmus. Bei dieser Vorgehensweise zur Ordnung
 
 ```python
 Bubblesort(Liste A)
-    für n von 0 bis Länge(A) -1
-        für j von 1 bis Länge(A) -n
+    für n von 0 bis Länge(A) - 1
+        für j von 1 bis Länge(A) - n
             wenn A[j] < A[j-1]
                 Vertausche A[j] und A[j-1]
     

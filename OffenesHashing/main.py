@@ -63,4 +63,5 @@ plt.xlabel("Index der Tabelle")
 plt.yticks([])
 
 plt.tight_layout()
+# plt.savefig('hash_graph.png')
 plt.show()
